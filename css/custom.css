@@ -12,3 +12,53 @@
         width: 20%;
     }
 }
+
+@media only screen and (max-width: 458px) {
+
+    #pasodesktop{
+      display: none;
+    }
+    #herodesktop{
+      background-image: url(/imagenesUsadas/colgate-hero-diente.jpg);
+      
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: center;
+      align-content: center;
+      text-align: center;
+      background-repeat: no-repeat;
+    }
+    .titulodesktop{
+      width: 85%;
+      color: white;
+    }
+  }
+  
+  @media only screen and (min-width: 458px) {
+  
+    #heromobile{
+      display: none;
+    }
+    
+  #herodesktop{
+    
+      height: 500px;
+      
+      margin: 0;
+      padding: 10%;
+      background-image: url(/imagenesUsadas/colgate-hero-diente.jpg);
+      background-size:100% 100%;
+      background-repeat: no-repeat;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: center;
+      align-content: center;
+      text-align: center;
+  }
+  .titulodesktop{
+    width: 60%;
+  }
+    
+  }
