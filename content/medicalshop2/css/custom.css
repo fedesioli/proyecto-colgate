@@ -20,7 +20,43 @@
     #fotoMina{
 
         height: 400px !important;
-        padding-bottom: 0%;
+        padding-bottom: 5%;
+    }
+    #icono2{
+        padding: 0px;
+    }
+    #etario{
+        padding:1% 2%;
+        text-align: center;
+    }
+    
+    #mejoras{
+        padding:0 2%;
+        text-align: center;
+    }
+    #pibeDolor{
+        height: 300px !important;
+    }
+    #alimentos{
+        padding-left:2%;
+        padding-right:2%;
+        margin-top: 5%;
+    }
+    #celeste{
+        padding-top: 5%;
+        padding-bottom: 5%;
+    }
+    
+    #imgalimentos{
+        height: 400px;
+    }
+    #sensibildiad{
+        padding-left:2%;
+        padding-right:2%;
+        margin-top: 5%;
+    }
+    #spa{
+        width: 55%!important;
     }
 }
 @media only screen and (min-width: 451px) {
@@ -33,5 +69,37 @@
 
         height: 700px !important;
         padding-bottom: 10%;
+    }
+    
+    #icono2{
+        padding:100px 0 85px;
+    }
+    
+    #etario{
+        padding:0% 1%;
+    }
+    #mejoras{
+        padding:0 5%;
+    }
+    #pibeDolor{
+        height: 400px !important;
+    }
+    #alimentos{
+        padding-left:8%;
+        padding-right:8%;
+    }
+    #celeste{
+        padding:100px 0 85px;
+    }
+    #imgalimentos{
+        height: 600px !important;
+    }
+    #sensibildiad{
+        padding-left:8%;
+        padding-right:8%;
+        margin-top: 3%;
+    }
+    #spa{
+        width: 20%!important;
     }
 }
