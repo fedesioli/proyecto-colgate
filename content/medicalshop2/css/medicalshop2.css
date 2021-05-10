@@ -1490,9 +1490,6 @@ a.action_button {
 #Footer .footer_copy .social li a:hover, #Footer .footer_copy .social-menu a:hover {
 	color: #898989;
 }
-#Footer .footer_copy {
-	border-top-color: rgba(0, 0, 0, 0.1);
-}
 a#back_to_top.button.button_js, #popup_contact>a.button {
 	color: #65666C;
 	background: transparent;

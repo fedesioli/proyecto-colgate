@@ -3595,9 +3595,6 @@ body:not(.with_aside) .portfolio_group.list .portfolio-item .portfolio-item-fw-w
 #Footer .widgets_wrapper .widget:after {
 	display: none;
 }
-#Footer .footer_copy {
-	border-top: 1px solid rgba(255, 255, 255, .1);
-}
 #Footer .footer_copy .one {
 	margin-bottom: 20px;
 	padding-top: 30px;
