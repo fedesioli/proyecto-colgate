@@ -58,6 +58,10 @@
     #spa{
         width: 55%!important;
     }
+    #alimentostxt{
+        font-size: 22px !important;
+        text-align: center;
+    }
 }
 @media only screen and (min-width: 451px) {
    
@@ -101,5 +105,8 @@
     }
     #spa{
         width: 20%!important;
+    }
+    #alimentostxt{
+        font-size: 35px !important;
     }
 }
