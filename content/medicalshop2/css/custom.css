@@ -1,0 +1,37 @@
+
+
+@media only screen and (max-width: 450px) {
+    .imgHero{
+        padding-bottom: 12% !important;
+       }    
+    .textoHero{
+           padding-top: 10% !important;
+       }
+    #diente{
+        padding-bottom: 5%;
+       }
+       #rojo1{
+        padding-left:2%;
+        padding-right:2%
+    }
+    #icono1{
+        text-align: center;
+    }
+    #fotoMina{
+
+        height: 400px !important;
+        padding-bottom: 0%;
+    }
+}
+@media only screen and (min-width: 451px) {
+   
+       #rojo1{
+        padding-left:2%;
+        padding-right:2%;
+    }
+    #fotoMina{
+
+        height: 700px !important;
+        padding-bottom: 10%;
+    }
+}
