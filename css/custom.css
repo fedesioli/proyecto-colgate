@@ -5,11 +5,31 @@
         width: 35%;
         margin-left: 12%;
     }
+    #dienteicono{
+      width: 20%;
+    }
+    
+    #reloj{
+      width: 20%;
+    }
+    
+    #premio{
+      width: 25%;
+    }
 }
 
 @media only screen and (min-width: 420px) {
     #logoBrandstudio{
         width: 20%;
+    }
+    #dienteicono{
+      width: 30%;
+    }
+    #reloj{
+      width: 25%;
+    }
+    #premio{
+      width: 35%;
     }
 }
 
